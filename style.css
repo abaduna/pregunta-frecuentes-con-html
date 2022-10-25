@@ -1,0 +1,16 @@
+body {
+    background-image: url("./prague-7172594_640.jpg");
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: left top;
+    background-attachment: fixed;
+}
+
+details{
+    background-color: rgb(79, 79, 79);
+    padding: 0.5rem;
+    border-radius: 6px;
+    margin: 0.5rem;
+    cursor: pointer;
+    font-size: 50px;
+}
